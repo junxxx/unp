@@ -1,5 +1,5 @@
-#ifndef __unp_h
-#define __unp_h
+#ifndef __UNP_H
+#define __UNP_H
 
 #include  "../config.h"
 
@@ -28,3 +28,7 @@
 
 /* Following shortens all the typecasts of pinter arguments: */
 #define SA struct sockaddr
+
+void err_quit(const char *fmt, ...);
+void err_sys(const char *fmt, ...);
+#endif      /* __UNP_H */

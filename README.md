@@ -12,3 +12,9 @@ int func_a(int x, ...)
 }
 ```
 what's the keyword of static in C ?
+
+```
+gcc file1.c file2.c -I path/to/include/header.h
+```
+
+enable [daytime service](https://en.wikipedia.org/wiki/Xinetd) in linux on default port 13
