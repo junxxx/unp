@@ -1,0 +1,1 @@
+/* configuration options for current OS */

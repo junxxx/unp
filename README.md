@@ -11,3 +11,4 @@ int func_a(int x, ...)
     va_end(a_list);
 }
 ```
+what's the keyword of static in C ?
