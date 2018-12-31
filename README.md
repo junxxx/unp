@@ -33,3 +33,10 @@ struct in_addr {
 }
 ```
 OSI(open systems interconnection) Model
+
+
+Network Byte Order (Big-endian)
+
+Host Byte Order (usually little-endian,but depends)
+
+
